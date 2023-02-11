@@ -1,0 +1,6 @@
+name: EzMiner
+version: '${project.version}'
+main: ezcoins.ezminer.EzMiner
+api-version: 1.19
+authors: [ EzCoins ]
+description: A plugin that aims to enhance the mining experience in Minecraft.
