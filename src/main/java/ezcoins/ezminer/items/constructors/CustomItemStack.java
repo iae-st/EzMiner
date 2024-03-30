@@ -1,4 +1,4 @@
-package ezcoins.ezminer.api.constructors;
+package ezcoins.ezminer.items.constructors;
 
 import lombok.Getter;
 import org.bukkit.ChatColor;
